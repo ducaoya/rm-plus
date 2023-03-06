@@ -2,6 +2,7 @@
   "name": "rm-plus",
   "version": "1.0.6",
   "description": "对 rimraf 的二次封装，简化命令；",
+  "homepage": "https://github.com/ducaoya/rm-plus",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -37,5 +38,9 @@
     "directory",
     "fs",
     "filesystem"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ducaoya/rm-plus"
+  }
 }
