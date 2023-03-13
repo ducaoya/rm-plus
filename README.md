@@ -8,7 +8,7 @@
 npm i rm-plus -g
 ```
 
-## 用法
+## use
 
 ```
 rmp <path> [<path> ...] 
